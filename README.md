@@ -1,1 +1,1 @@
-# aml-neuralnet-cnn
+### Exercises involving creating a simple nerual net from scratch, followed by using the Fashion MNIST data to train various nerual nets and comparing various metrics
